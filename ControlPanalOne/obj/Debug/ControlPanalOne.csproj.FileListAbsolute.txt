@@ -1,0 +1,11 @@
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\bin\Debug\ControlPanalOne.exe.config
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\bin\Debug\ControlPanalOne.exe
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\bin\Debug\ControlPanalOne.pdb
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.csproj.AssemblyReference.cache
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.csproj.SuggestedBindingRedirects.cache
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.Form1.resources
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.Properties.Resources.resources
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.csproj.GenerateResource.cache
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.csproj.CoreCompileInputs.cache
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.exe
+F:\Work_Space\DesktopApps\ControlPanalOne\ControlPanalOne\obj\Debug\ControlPanalOne.pdb
